@@ -1,0 +1,49 @@
+{
+  "basics": {
+    "name": "Thomas Davis",
+    "label": "Web Developer",
+    "image": "https://www.thispersondoesnotexist.com/image",
+    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+    "hobbies": "I'm a musician, I studied for several years before becomming a developer, so I enjoy producing, playing and sometimes spending my hollydays on some beautifull city making music. It's also my secondary job and most of my social life!",
+    "skills": ["HTML","CSS","Javascript","React","Node.js","HTTP and REST","Mongo DB","GIT","TeamWork"],
+    "email": "thomasalwyndavis@gmail.com",
+    "location": {
+      "city": "La Plata",
+      "country": "Argentina"
+    }
+  },
+   "work": [
+    {
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "company": "WebVue",
+      "position": "Senior Web Developer",
+      "startDate": "2018-01-08",
+      "endDate": "2020-09-08"
+    },
+    {
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "company": "Spideo",
+      "position": "Co-Founder",
+      "startDate": "2015-02-07",
+      "endDate": "2018-01-01"
+    },
+    {
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "company": "Dront",
+      "position": "Tech Lead",
+      "startDate": "2014-09-01",
+      "endDate": "2015-01-01"
+    }
+  ],
+  "achievements": [
+    "Improved the current ABC software, making it 50% more efficient than before", "Successfully modified numerous software applications that increased user-friendliness by 25%",
+    "Introduced a solid database and GUI to identify user needs with 95% accuracy", "Identified areas for modification and changes, within a short span of time",
+    "Led development of DotCode. Wrote 80% of the code, and reviewed the rest. Achieved excellent system stability.", "Refactored the software structure for an online chat service, reducing initial and running costs by 20% and 50% respectively",
+    "Created an automated code pipeline, hence, increased allowance to move to a continuous delivery model", "Developed a business intelligence dashboard, as a result, gave the front desk real-time visibility into inventory and procurement", 
+    "Created a data analysis pipeline that increased program efficiency", "Developed and implemented novel software tools. Increased automation and efficiency levels by 35%",
+    "Redesigned the company’s web-based application, providing information technology support throughout the tenure", "Awarded Employee of the Month 3 times in a row, owing to exceptional software designing and support to all departments",
+    "Trained 50+ individuals in handling software development cycles, as part of their induction processes", "Suggested advancement of security and confidentiality of data, through the implementation of key processes and protocols",
+    "Singlehandedly designed and developed a processing platform, which resulted in improved general performance", "Chosen as the only employee to represent the company at the Annual Software Engineers’ Forum, held in Jakarta, Indonesia",
+    "Planned high-end software, thereby, improved the overall efficiency of company processes by 25%."
+  ]
+}
