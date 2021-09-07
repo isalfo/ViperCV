@@ -1,0 +1,63 @@
+/* 
+  Localized.Strings
+  CurriculumApp
+
+  Created by Gonzalo Alfonso on 27/08/2021.
+  
+*/
+
+//********* ContactView Strings *********
+"ContactView_Title_Text" = "My CV";
+"ContactView_Error_Label_Text" = "NOTHING TO SHOW";
+"ContactView_Error_Button_Text" = "Refresh";
+"ContactView_CareerButtonPressed_Text" = "Career";
+"ContactView_AboutButtonPressed_Text" = "About";
+"ContactView_AchievementsButtonPressed_Text" = "Achievements";
+
+//********* ContactInteractor Strings *********
+"Interactor_ParsingError_ErrorMessage_Text" = "There was an error parsing data";
+"Interactor_URLError_ErrorMessage_Text" = "There was an error on the URL";
+"Interactor_DefaultError_ErrorMessage_Text" = "There was an unexpected error";
+
+//********* ContactRouter Strings *********
+"ContactRouter_ShowCareer_StoryBoard_Name_Text" = "Main";
+"ContactRouter_ShowCareer_StoryBoard_ViewController_Identifier_Text" = "CareerView";
+"ContactRouter_ShowCareer_StoryBoard_ViewController_Failure_Text" = "There is not a CareerView in the Main storyboard";
+
+"ContactRouter_ShowAboutMe_StoryBoard_Name_Text" = "Main";
+"ContactRouter_ShowAboutMe_StoryBoard_ViewController_Identifier_Text" = "AboutMeView";
+"ContactRouter_ShowAboutMe_StoryBoard_ViewController_Failure_Text" = "There is not an AboutMeView in the Main storyboard";
+
+"ContactRouter_ShowAchievements_StoryBoard_Name_Text" = "Main";
+"ContactRouter_ShowAchievements_StoryBoard_ViewController_Identifier_Text" = "AchievementsView";
+"ContactRouter_ShowAchievements_StoryBoard_ViewController_Failure_Text" = "There is not an AchievementsView in the Main storyboard";
+
+"ContactRouter_ShowError_Alert_Title_Text" = "Error";
+"ContactRouter_ShowError_AlertAction_Title_Text" = "OK";
+
+"Endpoint_Request_Failure_Text" = "Invalid URL used to create URL instance";
+"Endpoint_Request_URL_Text" = "https://gist.githubusercontent.com/alfoglobant/f02d7860040b9725b26b79c0da0153ab/raw/d96e823bb4a8685aaf2b570d31c2cf7bb7334be6/resume.json";
+"EmptyString" = "";
+
+//********* CareerView Strings *********
+"CareerView_Title_Text" = "My Career";
+"CareerView_TableViewCell_Identifier_Text" = "jobCell";
+"CareerView_TableView_DateLabel_Since_Text" = "Since: ";
+"CareerView_TableView_DateLabel_Until_Text" = " Until: ";
+"CareerView_TableView_Alert_Message_Text" = "(Information still not available)";
+"CareerView_TableView_AlertAction_Title_Text" = "OK";
+
+
+//********* AboutMeView Strings *********
+"AboutMeView_Title_Text" = "About Me";
+"AboutMeView_AboutMeTableViewCell_Identifier_Text" = "aboutTableViewCell";
+"AboutMeView_AboutMeTableViewCell_Title_Text" = "About Me";
+"AboutMeView_HobbiesTableViewCell_Identifier_Text" = "hobbiesTableViewCell";
+"AboutMeView_HobbiesTableViewCell_Title_Text" = "Hobbies";
+"AboutMeView_SkillsTableViewCell_Identifier_Text" = "skillsTableViewCell";
+"AboutMeView_SkillsTableViewCell_Title_Text" = "Skills";
+
+//********* AchievementsView Strings *********
+"AchievementsView_Title_Text" = "Achievements";
+"AchievementsView_AchievementsTableViewCell_Identifier_Text" = "achievementsCell";
+"AchievementsView_AchievementsTableViewCell_Title_Text" = "Achievements";
